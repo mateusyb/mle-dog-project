@@ -1,0 +1,8 @@
+dogImages/
+lfw/
+bottleneck_features/
+
+saved_models/
+
+.ipynb_checkpoints/
+__pycache__/
